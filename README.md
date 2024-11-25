@@ -1,6 +1,4 @@
 # ICS3203 CAT 2 - Assembly Programs
-### **Repository Overview**
-This repository contains solutions to the CAT 2 practical assembly programming tasks.
 
 ### **Tasks**
 1. **Control Flow and Conditional Logic**: Classify numbers as positive, negative, or zero.
